@@ -9,3 +9,4 @@ export default function Profile({ name, src, alt }) {
     </div>
   );
 }
+//
